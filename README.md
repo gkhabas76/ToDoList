@@ -1,4 +1,5 @@
-# simplevueapp
+// TodoApp using Vue.js
+# vueapp
 
 ## Project setup
 ```
